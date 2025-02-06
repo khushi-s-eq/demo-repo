@@ -4,4 +4,4 @@ some descrption
 
 watch tutorial
 ##local dev
-open html in browser
+open html in browser ss
